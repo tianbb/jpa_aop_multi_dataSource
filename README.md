@@ -1,0 +1,2 @@
+# jpa_aop_multi_dataSource
+基于spring-boot 使用jpa和aop的动态数据源切换
